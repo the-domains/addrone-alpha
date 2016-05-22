@@ -1,4 +1,3 @@
-layout_spectrum: 0.32364003523252904
 typography_spectrum: 0.2867913041263819
 color:
   brandStrength: 0.8936432898044586
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: Addrone Alpha
+layout_spectrum: 0.32364003523252904
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/60f1db17-c1e9-4778-876c-c624bfdbae9c.jpg'
+name: Addrone Alpha
+title: Aerial advertising that gets noticed
