@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Addrone Alpha]]></title>
-        <description><![CDATA[Addrone Alpha]]></description>
+        <title><![CDATA[Aerial advertising that gets noticed]]></title>
+        <description><![CDATA[Aerial advertising that gets noticed]]></description>
         <link>https://thegrid.ai/addrone-alpha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 06:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 05:54:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/addrone-alpha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Addrone test flight.]]></title>
@@ -18,12 +18,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ba5fc6c-88cb-47bf-8cc7-4f3655129c07.jpg">]]></description>
             <link>https://thegrid.ai/addrone-alpha/9b6beb15-5062-4e7e-8ea0-12115c0c721b/index.html</link>
             <guid isPermaLink="false">9b6beb15-5062-4e7e-8ea0-12115c0c721b</guid>
-            <pubDate>Sun, 22 May 2016 06:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://facebook.com/addroneaus</link>
-            <guid isPermaLink="false">cf48a0ec-f731-4cd7-9549-934c240f0b58</guid>
             <pubDate>Sun, 22 May 2016 06:32:16 GMT</pubDate>
         </item>
         <item>
