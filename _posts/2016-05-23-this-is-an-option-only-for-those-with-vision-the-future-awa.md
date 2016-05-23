@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-05-23T14:49:48.401Z'
-datePublished: '2016-05-23T14:58:47.138Z'
+dateModified: '2016-05-23T15:08:29.181Z'
+datePublished: '2016-05-23T15:41:04.031Z'
 title: This is an option only for those with vision. The future awaits.
 author: []
 sourcePath: _posts/2016-05-23-this-is-an-option-only-for-those-with-vision-the-future-awa.md
