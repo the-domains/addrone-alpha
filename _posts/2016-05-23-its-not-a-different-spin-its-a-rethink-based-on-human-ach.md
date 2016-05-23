@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-05-23T14:16:31.767Z'
-datePublished: '2016-05-23T14:17:51.773Z'
+dateModified: '2016-05-23T15:40:24.294Z'
+datePublished: '2016-05-23T15:41:05.367Z'
 title: 'It’s not a different spin, it’s a rethink based on human achievement. We want to be the future of alternative and disruptive message conveyance. Concepts that embrace and utilise new technology.'
 author: []
 sourcePath: _posts/2016-05-23-its-not-a-different-spin-its-a-rethink-based-on-human-ach.md
@@ -12,6 +12,6 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf44b83b658644e549545168eaa370d75435f3e.jpg" /><h1>What are we thinking?</h1></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4704872f2058095a34a0323ea11524c07f60abb8.jpg" /><h1>What are we thinking?</h1></article>
 
 ## It's not a different spin, it's a rethink based on human achievement. We want to be the future of alternative and disruptive message conveyance. Concepts that embrace and utilise new technology.
