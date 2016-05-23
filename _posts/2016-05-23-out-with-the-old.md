@@ -1,7 +1,7 @@
 ---
 description: “I was thinking of putting an ad in the paper. Maybe that will get my business noticed?” Said someone who was living in the past.
-dateModified: '2016-05-23T14:48:14.209Z'
-datePublished: '2016-05-23T14:58:51.286Z'
+dateModified: '2016-05-23T15:08:28.141Z'
+datePublished: '2016-05-23T15:41:01.461Z'
 title: Out with the old
 author: []
 sourcePath: _posts/2016-05-23-out-with-the-old.md
