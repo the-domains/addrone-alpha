@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-23T13:56:24.178Z'
+datePublished: '2016-05-23T15:41:11.582Z'
 sourcePath: _posts/2016-05-22-addrone-test-flight.md
 isBasedOnUrl: 'https://youtu.be/XLymGA1zT0Q'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Addrone
     url: 'https://www.youtube.com/channel/UCUesaGy_acUlmLiGO2xP85Q'
     avatar: {}
-dateModified: '2016-05-23T06:20:25.653Z'
+dateModified: '2016-05-23T15:08:37.855Z'
 title: Addrone test flight.
 app_links: []
 publisher:
