@@ -1,16 +1,16 @@
-typography_spectrum: 0.731852903496474
+typography_spectrum: 0.14615527773275971
 color:
-  brandStrength: 0.254577383864671
-  lightness: 0.9610257965978235
-  saturation: 0.1487363565247506
-  rhythmicContrast: 0.8197196449618787
+  brandStrength: 0.12259411090053618
+  lightness: 0.32188735669478774
+  saturation: 0.6050505021121353
+  rhythmicContrast: 0.9868770602624863
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.5182287499774247
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.2248619848396629
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/60f1db17-c1e9-4778-876c-c624bfdbae9c.jpg'
 name: Addrone
 title: ''
