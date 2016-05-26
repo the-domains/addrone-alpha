@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-25T05:05:53.387Z'
+datePublished: '2016-05-26T00:29:27.473Z'
 sourcePath: _posts/2016-05-22-addrone-test-flight.md
 isBasedOnUrl: 'https://youtu.be/XLymGA1zT0Q'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Addrone
     url: 'https://www.youtube.com/channel/UCUesaGy_acUlmLiGO2xP85Q'
     avatar: {}
-dateModified: '2016-05-25T04:52:07.059Z'
+dateModified: '2016-05-26T00:29:02.605Z'
 title: Addrone test flight.
 app_links: []
 publisher:
@@ -16,7 +16,7 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-description: Testing our custom rig in Brisbane city. Using a DJI S900.
+description: Testing our custom rig in Brisbane city. Click on the image to see us in action.
 starred: false
 inFeed: true
 hasPage: false
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d28e1d9-d358-4dc5-9591-ed7ef829ef74.jpg)
+![Testing our custom rig in Brisbane city. Click on the image to see us in action.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb0e16545cf2cb0e915a1107250b2e8519c8adc0.jpg)
