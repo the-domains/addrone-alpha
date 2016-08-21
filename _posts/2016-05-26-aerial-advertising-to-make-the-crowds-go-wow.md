@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T02:57:49.153Z'
+datePublished: '2016-08-21T03:03:11.944Z'
 sourcePath: _posts/2016-05-26-aerial-advertising-to-make-the-crowds-go-wow.md
 author: []
 via: {}
-dateModified: '2016-08-21T02:57:48.101Z'
+dateModified: '2016-08-21T03:03:10.980Z'
 title: Aerial advertising reimagined
 publisher: {}
 description: Create that "wow" factor for your target audience
