@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T03:47:06.949Z'
+datePublished: '2016-08-21T04:02:11.607Z'
 sourcePath: _posts/2016-05-26-aerial-advertising-to-make-the-crowds-go-wow.md
 author: []
 via: {}
-dateModified: '2016-08-21T03:46:59.010Z'
+dateModified: '2016-08-21T04:02:07.243Z'
 title: Aerial advertising reimagined
 publisher: {}
-description: Create that wow factor for your target market
+description: Create that "wow" factor for your target audience
 starred: true
 inFeed: true
 hasPage: true
@@ -16,7 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## Aerial advertising reimagined
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4111bd20-99ae-4e79-bcba-d1a57fd1ff67.jpg)
-
-Create that wow factor for your target market
