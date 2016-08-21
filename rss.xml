@@ -4,7 +4,7 @@
         <description><![CDATA[Addrone]]></description>
         <link>http://addrone.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 02:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:59:12 GMT</lastBuildDate>
         <atom:link href="http://addrone.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Aerial advertising reimagined]]></title>
@@ -12,6 +12,13 @@
             <link>http://addrone.com.au/aerial-advertising-reimagined/index.html</link>
             <guid isPermaLink="false">59f35322-0ecb-4c57-9b1e-75ee1949f38c</guid>
             <pubDate>Sun, 21 Aug 2016 02:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Now that we have your attention]]></title>
+            <description><![CDATA[<article><h1>Now that we have your attention</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30386cfbd5fd3a80070e40817ff6ae9dd894153f.jpg"></article>]]></description>
+            <link>http://addrone.com.au/now-that-we-have-your-attention/index.html</link>
+            <guid isPermaLink="false">9b6beb15-5062-4e7e-8ea0-12115c0c721b</guid>
+            <pubDate>Sun, 21 Aug 2016 02:59:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[STAND OUT!]]></title>
@@ -33,13 +40,6 @@
             <link>https://youtu.be/XLymGA1zT0Q</link>
             <guid isPermaLink="false">55d45b28-67c8-4fa9-9584-f7dcececffae</guid>
             <pubDate>Sun, 21 Aug 2016 02:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now that we have your attention]]></title>
-            <description><![CDATA[<article><h1>Now that we have your attention</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30386cfbd5fd3a80070e40817ff6ae9dd894153f.jpg"></article>]]></description>
-            <link>http://addrone.com.au/now-that-we-have-your-attention/index.html</link>
-            <guid isPermaLink="false">9b6beb15-5062-4e7e-8ea0-12115c0c721b</guid>
-            <pubDate>Sun, 21 Aug 2016 02:41:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
