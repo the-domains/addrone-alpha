@@ -4,14 +4,14 @@
         <description><![CDATA[ADDRONE]]></description>
         <link>http://addrone.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 02:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:30:04 GMT</lastBuildDate>
         <atom:link href="http://addrone.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Aerial advertising reimagined]]></title>
-            <description><![CDATA[<article><h1>Aerial advertising reimagined</h1><p>Create that "wow" factor for your target audience</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4111bd20-99ae-4e79-bcba-d1a57fd1ff67.jpg"></article>]]></description>
-            <link>http://addrone.com.au/create-the-wow-factor-for-your-target-audience/index.html</link>
-            <guid isPermaLink="false">59f35322-0ecb-4c57-9b1e-75ee1949f38c</guid>
-            <pubDate>Sun, 21 Aug 2016 02:19:31 GMT</pubDate>
+            <title><![CDATA[The latest tech for safety and reliability]]></title>
+            <description><![CDATA[<article><h1>The latest tech for safety and reliability</h1><p># DJI innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/369657c491a6d15b67ae000edce06f448cda425a.jpg"></article>]]></description>
+            <link>http://addrone.com.au/the-latest-tech-for-safety-and-reliability/index.html</link>
+            <guid isPermaLink="false">22fce835-4837-4322-860f-608f3ae8312a</guid>
+            <pubDate>Sun, 21 Aug 2016 02:28:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Addrone test flight.]]></title>
@@ -33,13 +33,6 @@
             <link>http://addrone.com.au/stand-out/index.html</link>
             <guid isPermaLink="false">5aae5b4a-affa-4ace-90e4-4658e0dc0ec8</guid>
             <pubDate>Wed, 25 May 2016 05:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The latest tech for safety and reliability]]></title>
-            <description><![CDATA[<article><h1>The latest tech for safety and reliability</h1><p># DJI innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/369657c491a6d15b67ae000edce06f448cda425a.jpg"></article>]]></description>
-            <link>http://addrone.com.au/the-latest-tech-for-safety-and-reliability/index.html</link>
-            <guid isPermaLink="false">22fce835-4837-4322-860f-608f3ae8312a</guid>
-            <pubDate>Wed, 25 May 2016 05:05:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
