@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-21T02:41:25.926Z'
+datePublished: '2016-08-21T02:58:39.666Z'
 sourcePath: _posts/2016-05-23-consider-this.md
 author: []
 via: {}
-dateModified: '2016-08-21T02:30:06.750Z'
+dateModified: '2016-08-21T02:58:38.721Z'
 title: Consider this.
 publisher: {}
 description: >-
