@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ADDRONE]]></title>
-        <description><![CDATA[ADDRONE]]></description>
+        <title><![CDATA[Addrone]]></title>
+        <description><![CDATA[Addrone]]></description>
         <link>http://addrone.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 02:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:44:29 GMT</lastBuildDate>
         <atom:link href="http://addrone.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The latest tech for safety and reliability]]></title>
-            <description><![CDATA[<article><h1>The latest tech for safety and reliability</h1><p># DJI innovation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/369657c491a6d15b67ae000edce06f448cda425a.jpg"></article>]]></description>
-            <link>http://addrone.com.au/the-latest-tech-for-safety-and-reliability/index.html</link>
-            <guid isPermaLink="false">22fce835-4837-4322-860f-608f3ae8312a</guid>
-            <pubDate>Sun, 21 Aug 2016 02:28:17 GMT</pubDate>
+            <title><![CDATA[Aerial advertising reimagined]]></title>
+            <description><![CDATA[<article><h1>Aerial advertising reimagined</h1><p>Create that "wow" factor for your target audience</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4111bd20-99ae-4e79-bcba-d1a57fd1ff67.jpg"></article>]]></description>
+            <link>http://addrone.com.au/aerial-advertising-reimagined/index.html</link>
+            <guid isPermaLink="false">59f35322-0ecb-4c57-9b1e-75ee1949f38c</guid>
+            <pubDate>Sun, 21 Aug 2016 02:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Addrone test flight.]]></title>
             <description><![CDATA[<article><h1>Addrone test flight.</h1><p>Testing our custom rig in Brisbane city. Click on the image to see us in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca36bc2a5bf4b975d8752f47f24b683d1db6d39.jpg"></article>]]></description>
             <link>https://youtu.be/XLymGA1zT0Q</link>
             <guid isPermaLink="false">55d45b28-67c8-4fa9-9584-f7dcececffae</guid>
-            <pubDate>Thu, 26 May 2016 00:29:27 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 02:41:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Now that we have your attention]]></title>
             <description><![CDATA[<article><h1>Now that we have your attention</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30386cfbd5fd3a80070e40817ff6ae9dd894153f.jpg"></article>]]></description>
             <link>http://addrone.com.au/now-that-we-have-your-attention/index.html</link>
             <guid isPermaLink="false">9b6beb15-5062-4e7e-8ea0-12115c0c721b</guid>
-            <pubDate>Wed, 25 May 2016 05:05:51 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 02:41:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[STAND OUT!]]></title>
             <description><![CDATA[<article><h1>STAND OUT!</h1><p>Get attention in your town</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4cc98065461487fd3d63d1cd6babd2535e5de3b.jpg"></article>]]></description>
             <link>http://addrone.com.au/stand-out/index.html</link>
             <guid isPermaLink="false">5aae5b4a-affa-4ace-90e4-4658e0dc0ec8</guid>
-            <pubDate>Wed, 25 May 2016 05:05:48 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 02:41:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
