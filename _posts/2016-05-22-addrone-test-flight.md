@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-26T00:29:27.473Z'
+datePublished: '2016-08-21T02:41:38.127Z'
 sourcePath: _posts/2016-05-22-addrone-test-flight.md
 isBasedOnUrl: 'https://youtu.be/XLymGA1zT0Q'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Addrone
     url: 'https://www.youtube.com/channel/UCUesaGy_acUlmLiGO2xP85Q'
     avatar: {}
-dateModified: '2016-05-26T00:29:02.605Z'
+dateModified: '2016-08-21T02:30:18.023Z'
 title: Addrone test flight.
 app_links: []
 publisher:
@@ -16,7 +16,10 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-description: Testing our custom rig in Brisbane city. Click on the image to see us in action.
+description: >-
+  Testing our custom rig in Brisbane city. Click on the image to see us in
+  action.
+via: {}
 starred: false
 inFeed: true
 hasPage: false
