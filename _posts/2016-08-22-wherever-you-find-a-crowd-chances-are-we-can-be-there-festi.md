@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-22T02:36:39.615Z'
+datePublished: '2016-08-22T02:37:19.460Z'
+sourcePath: >-
+  _posts/2016-08-22-wherever-you-find-a-crowd-chances-are-we-can-be-there-festi.md
 author: []
 via: {}
-dateModified: '2016-08-22T02:36:26.191Z'
+dateModified: '2016-08-22T02:37:15.195Z'
 title: >-
   Wherever you find a crowd chances are we can be there. Festivals, surf
   carnivals and and any other events where your future customers may be
   gathering.
 publisher: {}
 description: Ideal events and locations
-sourcePath: >-
-  _posts/2016-08-22-wherever-you-find-a-crowd-chances-are-we-can-be-there-festi.md
 starred: false
 inFeed: true
 hasPage: true
