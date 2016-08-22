@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-21T04:51:44.449Z'
+datePublished: '2016-08-22T02:36:09.610Z'
+sourcePath: _posts/2016-08-21-aerial-advertising-reimagined.md
 author: []
 via: {}
-dateModified: '2016-08-21T04:50:32.423Z'
+dateModified: '2016-08-22T02:36:05.202Z'
 title: Aerial advertising reimagined
 publisher: {}
 description: Create that wow factor for your target audience
 starred: true
-sourcePath: _posts/2016-08-21-aerial-advertising-reimagined.md
 inFeed: true
 hasPage: true
 inNav: false
